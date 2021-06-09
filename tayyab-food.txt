@@ -1,0 +1,2 @@
+burgeres and kachapstr[str(getdate())],valuestr[str(getdate())],valuestr[str(getdate())],valuestr[str(getdate())],valuestr[str(getdate())],valuestr[str(getdate())],value['2021-04-22 16:31:18.788226']:burger/n['2021-04-22 16:34:11.393483']:roti
+['2021-04-22 16:34:57.891709']:burger and roti
